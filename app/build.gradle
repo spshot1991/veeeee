@@ -6,7 +6,7 @@ android {
     compileSdkVersion 36
 
     defaultConfig {
-        applicationId "app.hack.eightballpool"
+        applicationId "app.www.idkkkkkwwkvmc"
         minSdkVersion 26
         //noinspection ExpiredTargetSdkVersion,OldTargetApi
         targetSdkVersion 28
